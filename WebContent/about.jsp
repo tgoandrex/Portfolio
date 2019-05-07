@@ -27,9 +27,6 @@
 							<img class="d-block w-100" src="${request.contextPath}resources\imgs\OnlineShopping-image.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="${request.contextPath}resources\imgs\Spaghetti.jpg" alt="Third slide">
-						</div>
-						<div class="carousel-item">
 							<img class="d-block w-100" src="${request.contextPath}resources\imgs\Sousmate-image.png" alt="Fourth slide">
 						</div>
 					</div>
