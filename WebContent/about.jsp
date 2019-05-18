@@ -5,12 +5,10 @@
 			</header>
 			<section> <!-- Begin Main Content -->
 				<h3>Hello</h3>
-				<p>My name is Andrew Stapleton, an aspiring web developer. After a tough decision to change my focus from history studies to programming I 
-				have come a long ways from knowing nothing to having four projects done, learning two programming languages, learning many programming 
-				concepts and technologies, and enjoying the challenge of how to build web applications on my own! Please, take the time to look over my 
-				<a href="/Portfolio/skills">skills</a> and <a href="/Portfolio/portfolio">portfolio</a>. Also feel free to 
-				<a href="/Portfolio/contact">contact</a> me about any questions or employment opportunities. I'm currently looking for any entry level 
-				java developer opportunities in the San Antonio and Austin area. Thanks for visiting me!</p>
+				<p>My name is Andrew Stapleton. Please, take the time to look over my <a href="/Portfolio/skills">skills</a> and 
+				<a href="/Portfolio/portfolio">portfolio</a>. Also feel free to <a href="/Portfolio/contact">contact</a> me about any questions or 
+				employment opportunities. I'm currently looking for any entry level web developer opportunities in the San Antonio and Austin area. 
+				Thanks for visiting me!</p>
 				<h3>Portfolio Preview</h3>
 				<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel"> <!-- Begin Carousel -->
 					<ol class="carousel-indicators">
